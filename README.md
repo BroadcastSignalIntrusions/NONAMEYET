@@ -1,4 +1,4 @@
-# NONAMEYET
+# An extensively modified Corellian light freighter,
 Small WIFI Adapter For Flipper Zero
 echo "# NONAMEYET" >> README.md
 git init
