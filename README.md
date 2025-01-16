@@ -1,4 +1,4 @@
-# An extensively modified Corellian light freighter,
+# Poulan 245A
 Small WIFI Adapter For Flipper Zero
 echo "# NONAMEYET" >> README.md
 git init
