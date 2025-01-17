@@ -1,9 +1,4 @@
-# Poulan 245A
-Small WIFI Adapter For Flipper Zero
-echo "# NONAMEYET" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/BroadcastSignalIntrusions/NONAMEYET.git
-git push -u origin main
+# POULAN 245A
+<img src="IMAGES/3D.png" alt='POULAN 245A' width='700' />
+
+[Fandom]([(https://texaschainsawmassacre.fandom.com/wiki/Poulan_245A_Chainsaw))
